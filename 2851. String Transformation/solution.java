@@ -1,3 +1,8 @@
+/*
+Problem Link-https://leetcode.com/problems/string-transformation/description/
+*/
+
+
 class Solution {
   // This dynamic programming table dp[k][i] represents the number of ways to
   // rearrange the String s after k steps such that it starts with s[i].
