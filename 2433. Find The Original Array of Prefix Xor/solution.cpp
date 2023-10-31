@@ -1,5 +1,5 @@
 /*
-problem solution:- 
+problem solution:- https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/?envType=daily-question&envId=2023-10-31
 */
 
 class Solution {
